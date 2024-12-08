@@ -24,5 +24,5 @@ Our journey with SplitLLMBill has been one of discovery and growth. We've learne
 
 As we look to the future, our vision for SplitLLMBill is bold and ambitious. We plan to leverage the power of Gemini to further automate expense categorization and provide users with actionable insights. Integration with chatbot technology will enable dynamic interactions and personalized financial advice. UI refinements will enhance the user experience, while data export/import functionality will offer greater flexibility. Notion integration will empower users to take control of their data, while mobile apps will extend the reach of SplitLLMBill to new audiences. Security enhancements, backend scaling, and bug fixes will ensure that SplitLLMBill remains a reliable and trusted companion on the journey to financial empowerment.
 
-**Please do check out our application at:** [SplitLLMBill](https://slb-frontend.vercel.app/)  
+**Please do check out our application at:** [SplitLLMBill](https://splitllm.vercel.app/)  
 *Use Invite Code: BQ4D1K during signup.*
